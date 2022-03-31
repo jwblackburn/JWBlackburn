@@ -1,0 +1,16 @@
+body {
+  background-color: #C3E5AE;
+  font-family: consolas;
+}
+
+hr {
+  background-color: #C3E5AE;
+  border-top-color: #05595B;
+  border-top-style: dotted;
+  border-top-width: 5px;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  width: 5%;
+  height: 50px;
+   }
