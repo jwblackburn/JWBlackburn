@@ -1,2 +1,3 @@
-# 1st-Website
-It is my website, my first website.
+# James Blackburn
+It is my personal website that is still a project. I have created a repository here so that I could feature this project in my courses.
+Thanks for visiting dear fellow.
